@@ -1,6 +1,4 @@
-# cswk-program
-
-This Folder contains all source code for the coursework
+A basic 3D rendering engine built using Haskell's Gloss package
 
 I wrote the code with gloss ver. 1.13.2.1, though most versions should work.
 
