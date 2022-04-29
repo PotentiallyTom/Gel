@@ -9,5 +9,3 @@ Once the program is running, use QWE / ASD to rotate the object, and ZX to zoom 
 To add your own mesh, change `object` in Main.hs to your object, the default object is a red cube in order to show off the shading functions
 
 To close the program simply close the window.
-
-For more information please see report.pdf, also in this folder
